@@ -1,0 +1,25 @@
+body{
+	text-align: center;
+	background-color: #AFEEEE;
+}
+
+td {
+	width: 100px;
+	height:100px;
+	border: 1px solid black;
+	text-align: center;
+	font-size:350%;
+}
+table.center {
+	width: 750px;
+	height:750px;
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+td.x {
+	background-color: blue;
+}
+td.o {
+	background-color: yellow;
+}
